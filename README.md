@@ -37,18 +37,16 @@ Me chamo Gustavo Laceda dos Santos Barbosa, tenho 19 anos e sou de Minas Gerais.
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Estatísticas 
+<p> 
+    <img 
+        align="center" 
+        alt="GitHub Stats"
+        height="200" 
+        width="100px" 
+        style="padding-right: 10px;" 
+        src="https://github-readme-stats.vercel.app/api?username=Gustavolaceerda&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+        /> 
+</p>
 
-<div align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Gustavolaceerda&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavolaceerda&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
 
