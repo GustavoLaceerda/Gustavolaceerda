@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gustavo Lacerda
 
-**`Desenvolvedora FullStack`**
+**`Estudante - Sistema de informações`**
 
 Me chamo Gustavo Laceda dos Santos Barbosa, tenho 19 anos e sou de Minas Gerais. Atualmente, estou cursando Sistema de informações na PUCMG.
 
